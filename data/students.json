@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "student_id": "12345",
+      "full_name": "Akintola Erema Deborah",
+      "class_form": "300",
+      "gender": "Female",
+      "date_of_birth": "2008-10-01",
+      "scores": {
+        "Mathematics": 85.0,
+        "English": 78.0,
+        "Science": 82.0,
+        "Social Studies": 75.0,
+        "Computer Science": 28.0
+      },
+      "result_date": "2026-11-04 20:30:49"
+    }
+  ]
+}
